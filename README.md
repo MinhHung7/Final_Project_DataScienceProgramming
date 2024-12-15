@@ -31,6 +31,14 @@ Our Notion is here [Project Management](https://purple-silver-33b.notion.site/Ph
 - `anime_recommendation_using_cosine_similarity.ipynb`: is to build an anime recommendation system using cosine similarity. It likely compares users' preferences or anime features (e.g., genres, ratings, or tags) to calculate the similarity between items or users. Based on these similarities, the notebook generates personalized anime recommendations, helping users discover shows similar to their interests.
 - `anime_rating_classification.ipynb` is to classify anime based on age ratings (such as "G," "PG," "PG-13," "R," etc.). This involves using features such as genre, content, and other metadata to predict the appropriate age rating for each anime. The notebook applies machine learning techniques to categorize the anime into different age groups based on the content, helping to identify which anime is suitable for specific age audiences.
 ## 👉 How to run
-Since the dataset has been thoroughly cleaned by us in the Data Preprocessing folder, you can independently run the .ipynb files to see how we addressed the questions. In case you want to review how we processed the data, you can run the file `anime_data_processing.ipynb`.
+First, you need to clone this repository
+```
+git clone https://github.com/MinhHung7/Final_Project_DataScienceProgramming
+```
+Then you need to run requirements.txt to install necessary libraries, open your terminal then run command
+```
+pip install -r .\requirements.txt
+```
+Ok, now because the dataset has been thoroughly cleaned by us in the Data Preprocessing folder, you can independently run the .ipynb files to see how we addressed the questions. In case you want to review how we processed the data, you can run the file `anime_data_processing.ipynb`.
 ## 👉 For contact and question
 If you have any questions or feedback, please submit them through the 'Issues' section on GitHub so we can assist you in the best way possible
