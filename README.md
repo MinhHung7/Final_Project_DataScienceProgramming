@@ -20,7 +20,7 @@ About this dataset's information as columns names, columns meaning, you can look
 In this project, we perform data preprocessing, data visuallization attributes relationships and then build systems using ML algorithms.
 ## 👉 Project Management
 In this project, we use Notion for task and project management. We have also included additional information about the dataset here if you'd like to learn more
-Our Notion is here [Project Management](https://purple-silver-33b.notion.site/Phases-Plan-159e4d6f3fe2807b909ce62c2990aca8)
+Our Notion is here [Project Management](https://www.notion.so/Checklist-15ae4d6f3fe280a79661c40ea5f4a8ff)
 ## 👉 Functions of files
 - `PATHS.py`: This is where the paths to the dataset file are stored
 - `anime_data_processing.ipynb`: preprocess the dataset. It includes cleaning, organizing, and preparing the data for analysis or modeling tasks, ensuring it is ready for further use in answering specific questions or building models.
